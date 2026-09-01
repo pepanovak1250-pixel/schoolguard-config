@@ -1,6 +1,6 @@
 {
-  "data": {"poradi": 3, "platnost_minut": 720, "vychozi": {"instalace_zablokovana": true, "nezname_zdroje_zablokovany": true, "tapeta_zamcena": true, "tapeta_reset": false, "zamek_obrazovky_zablokovan": true, "hodiny_skryty": false, "galaxy_store_skryty": true, "datum_cas_zamceny": true, "displej_zhasne_po": 120, "restartovat": false}},
-  "podpis": "MEYCIQClmLnd4BRhT0i8ZxBep4i8JZvQOjEQO+Rw5p8imyqwmwIhAOnNX41/mG3YCdayjuQxA/zVSWQNYOgU7ZVgfJhsZTVe",
-  "_vytvoreno": "2026-09-01 07:49 UTC",
+  "data": {"poradi": 4, "platnost_minut": 720, "vychozi": {"instalace_zablokovana": true, "nezname_zdroje_zablokovany": true, "tapeta_zamcena": true, "tapeta_reset": false, "zamek_obrazovky_zablokovan": true, "hodiny_skryty": false, "galaxy_store_skryty": false, "datum_cas_zamceny": true, "displej_zhasne_po": 120, "restartovat": false}},
+  "podpis": "MEUCIGcr13/qpoqeoQB/MQlFMnnPHhPby+Bv9qAx+boSrQpfAiEAxe56RMwqpzhKwPI0FiLfqGCYcYSQGnoSolNPBbh+vpM=",
+  "_vytvoreno": "2026-09-01 07:55 UTC",
   "_poznamka": "Generuje School Guard PC. Needitujte rucne - rozbijete podpis."
 }
