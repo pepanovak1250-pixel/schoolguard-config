@@ -1,0 +1,6 @@
+{
+  "data": {"poradi": 1, "platnost_minut": 720, "vychozi": {"instalace_zablokovana": true, "nezname_zdroje_zablokovany": true, "tapeta_zamcena": true, "tapeta_reset": false, "zamek_obrazovky_zablokovan": true, "hodiny_skryty": true, "galaxy_store_skryty": true, "datum_cas_zamceny": true, "displej_zhasne_po": 120, "restartovat": false}},
+  "podpis": "MEYCIQCemCvhhV0+yT60pXEWfHagu2vPCySmoW16uU21W1ln1gIhAKBmG/vVklAiIjUL6l4yGty1sd4W2A7dZyr8OfgTHPpu",
+  "_vytvoreno": "2026-09-01 07:40 UTC",
+  "_poznamka": "Generuje School Guard PC. Needitujte rucne - rozbijete podpis."
+}
